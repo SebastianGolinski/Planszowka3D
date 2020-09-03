@@ -2,13 +2,13 @@
 # Unity generated #
 # =============== #
 # from https://github.com/github/gitignore/b...
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
 [Uu]nityGenerated/
-Assets/AssetStoreTools*
+/Assets/AssetStoreTools*
 
 # Unity3D generated meta files
 *.pidb.meta
